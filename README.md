@@ -1,2 +1,2 @@
-chef-fundamenta
-===============
+chef-fundamentals
+=================
